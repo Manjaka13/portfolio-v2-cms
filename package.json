@@ -2,7 +2,7 @@
   "name": "portfolio-v-2-cms",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Headless CMS for my v2 portfolio",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -25,14 +25,10 @@
     "sqlite3": "5.0.0"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Manjaka13 <manjaka.rajaonson@gmail.com>"
   },
   "strapi": {
     "uuid": "902cf4f5-250a-42a5-8773-aaf05d8d52f1"
-  },
-  "engines": {
-    "node": ">=10.16.0 <=14.x.x",
-    "npm": "^6.0.0"
   },
   "license": "MIT"
 }
